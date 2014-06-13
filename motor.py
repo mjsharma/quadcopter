@@ -1,3 +1,4 @@
+# taken as reference from http://solenerotech1.wordpress.com/2013/09/09/tutorialhow-to-control-a-brushless-motor-with-raspberry-pi/
 #added User Interface
 #added Quadcopter.py
 
