@@ -1,4 +1,3 @@
-#2013.08.06 rpi test2
 #added User Interface
 #added Quadcopter.py
 
