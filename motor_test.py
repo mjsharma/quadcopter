@@ -1,8 +1,3 @@
-#solenero.tech@gmail.com
-#solenerotech.wordpress.com
-
-#solenerotech 2013.09.06
-
 from motor import motor
 
 mymotor = motor('m1', 17, simulation=False)
